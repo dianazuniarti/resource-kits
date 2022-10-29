@@ -1,1 +1,3 @@
 # resource-kits
+
+semangat belajar !!
